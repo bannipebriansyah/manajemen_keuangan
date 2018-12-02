@@ -1,6 +1,6 @@
 # CodeIgniter Unit Tests #
 
-Status : [![Build Status](https://secure.travis-ci.org/bcit-ci/CodeIgniter.png?branch=develop)](http://travis-ci.org/bcit-ci/CodeIgniter)
+Status : [![Build Status](https://travis-ci.org/bannipebriansyah/manajemen_keuangan.svg?branch=master)](https://travis-ci.org/bannipebriansyah/manajemen_keuangan)
 
 ### Introduction:
 
